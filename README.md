@@ -1,6 +1,6 @@
 # streamlit_get_protocol
 
-Get window.location.protocol
+Get window.location.protocol  
 Return http || https
 
 ## Installation:
